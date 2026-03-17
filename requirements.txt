@@ -1,0 +1,26 @@
+# Core
+python-dotenv
+pydantic
+pydantic-settings
+
+# PDF Processing
+PyMuPDF
+tiktoken
+
+# OpenAI
+openai
+
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Vector Store
+sqlalchemy
+psycopg[binary]
+pgvector
+
+# Testing & Development
+pytest
+jupyter
+black
